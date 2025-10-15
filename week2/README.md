@@ -1,4 +1,4 @@
-## ✨ مقالات پیشنهادی با خلاصه ساده و لینک
+## ✨مقالات متربط شبکه مخابراتی
 
 ### 1. *Scheduling and Aggregation Design for Asynchronous Federated Learning Over Wireless Networks*  
 *نویسندگان:* Chung-Hsuan Hu, Zheng Chen, Erik G. Larsson  
