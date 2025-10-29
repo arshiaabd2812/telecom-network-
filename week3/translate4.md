@@ -269,24 +269,18 @@ $$
 ابتدا، داده‌ی ورودی \( l^{th} \) به نماد \( b_l \in \{1, -1\} \) نگاشت می‌شود؛  
 سپس سیگنال فرستنده‌ی DCSK، یعنی \( S_k \)، برای داده‌ی ورودی اول طبق رابطه‌ی [21] تعریف می‌شود:
 
-$$
-S_k =
-\begin{cases}
-x_k, & k = 1, \ldots, \beta \\
-b_l \, x_{k-\beta}, & k = \beta + 1, \ldots, 2\beta
-\end{cases}
-\tag{15}
-$$
+<img width="560" height="66" alt="15" src="https://github.com/user-attachments/assets/67ff1e89-5f46-45bb-879e-db5abe2de402" />
+
 
 که در آن \( 2\beta \) نمایانگر *ضریب گسترش (Spreading Factor)* است.  
 
 در گیرنده، خروجی *همبسته‌ساز (Correlator)*  
 نمایانگر متغیر تصمیم مربوط به بیت \( l^{th} \)، یعنی \( c_l \)، است که به‌صورت زیر بیان می‌شود:
 
-$$
-c_l = \sum_{k=1}^{\beta} r_k \cdot r_{k+\beta}
-\tag{16}
-$$
+
+<img width="466" height="67" alt="16" src="https://github.com/user-attachments/assets/6e26c6d3-a6d8-4396-a24c-0d545b7daacb" />
+
+
 
 در اینجا \( r_k \) دنباله‌ی دریافتی (Received Sequence) است.  
 
