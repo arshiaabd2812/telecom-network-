@@ -14,7 +14,7 @@
 *نویسندگان:* Yunlong Shao; Thomas A. Gulliver  
 *نشریه / سال:* MDPI Telecom, 2024 (Vol. 5, Issue 1, pp. 216–227)  
 *לینک:* [صفحه مقاله](https://www.mdpi.com/2673-4001/5/1/11) • [PDF](https://www.mdpi.com/2673-4001/5/1/11/pdf)  
-*Citation:* [5]  
+*Citation:* [3]  
 *Impact Factor (JCR 2024):* 2.4  
 *خلاصهٔ خیلی ساده:* طراحی/بهینه‌سازی فرستنده‌ـ‌گیرنده برای رلهٔ تقویت-و-ارسال تمام‌دوبلکس با LI باقیمانده؛ الگوریتم تکراری و برتری نسبت به نیمه‌دوبلکس در نرخ دستیافتنی.  
 *GitHub:* ندارد (اعلام نشده)  
@@ -26,7 +26,7 @@
 *نویسندگان:* Chittapon Keawin; Apinya Innok; Peerapong Uthansakul  
 *نشریه / سال:* MDPI Telecom, 2024 (Vol. 5, Issue 2, pp. 280–295)  
 *لینک:* [صفحه مقاله](https://www.mdpi.com/2673-4001/5/2/14) • [PDF](https://www.mdpi.com/2673-4001/5/2/14/pdf)  
-*Citation:* [3]  
+*Citation:* [5]  
 *Impact Factor (JCR 2024):* 2.4  
 *خلاصهٔ خیلی ساده:* آشکارسازی سیگنال در UM-MIMO با CNN و مقایسه با ZF/MMSE و ELM؛ بهبود BER و ظرفیت با پیچیدگی کمتر.  
 *GitHub:* ندارد (اعلام نشده)  
