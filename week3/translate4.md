@@ -131,4 +131,4 @@ $$
 کلمهٔ کد به شکل زیر است
 
 :
-<img width="240" height="48" alt="6" src="https://github.com/user-attachments/assets/dec97c64-c37a-4d14-9449-ac3f29aad3c2" />
+<img width="484" height="35" alt="6" src="https://github.com/user-attachments/assets/e3c44559-f236-4e43-8331-9b92de9c8ee5" />
