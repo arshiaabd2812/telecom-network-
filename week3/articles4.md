@@ -54,7 +54,7 @@
 ### 5) *The Clinical Use of Remote Parameter Testing During CIED Implantation via a 5G-Cloud Platform*  
 *نویسندگان:* Sheng Xiong, Jiali He, Liyun Wang, Chao Zhang, et al.  
 *نشریه / سال:* Frontiers in Cardiovascular Medicine, 2024, Vol. 11  
-*لینک:* [صفحه مقاله](https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2024.1364940/full )•] 
+*لینک:* [صفحه مقاله](https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2024.1364940/full)•] 
 [PDF](https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2024.1364940/pdf)  
 *Citation:* [5]  
 *Impact Factor (JCR 2024):* 2.9  
