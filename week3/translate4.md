@@ -158,3 +158,4 @@ $$
 $$
 L_M^{(i)}(y_1^M, \hat{x}_1^{\,i-1})
 $$
+<img width="537" height="70" alt="7" src="https://github.com/user-attachments/assets/cd727a7a-c7b9-498d-b051-af22a0e5e4c6" />
