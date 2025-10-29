@@ -16,7 +16,7 @@
 *نویسندگان:* Yunlong Shao, Thomas A. Gulliver  
 *نشریه / سال:* Telecom (MDPI), 2024, Vol. 5(1), 216–227  
 *لینک:* [صفحه مقاله](https://www.mdpi.com/2673-4001/5/1/11) • [PDF](https://www.mdpi.com/2673-4001/5/1/11/pdf)  
-*Citation:* [2]  
+*Citation:* [3]  
 *Impact Factor (JCR 2024):* 2.4  
 *خلاصهٔ ساده:*  
 بهینه‌سازی مشترک پرکودر و کمباینر بر پایه MMSE در Full-Duplex AF Relay با LI باقی‌مانده؛ نرخ دستیافتنی بالاتر از Half-Duplex.  
@@ -29,7 +29,7 @@
 *نویسندگان:* Chittapon Keawin, Apinya Innok, Peerapong Uthansakul  
 *نشریه / سال:* Telecom (MDPI), 2024, Vol. 5(2), 280–295  
 *لینک:* [صفحه مقاله](https://www.mdpi.com/2673-4001/5/2/14) • [PDF](https://www.mdpi.com/2673-4001/5/2/14/pdf)  
-*Citation:* [3]  
+*Citation:* [5]  
 *Impact Factor (JCR 2024):* 2.4  
 *خلاصهٔ ساده:*  
 آشکارسازی سیگنال در UM-MIMO با CNN و مقایسه با ZF / MMSE / ELM؛ بهبود BER و ظرفیت در عین کاهش پیچیدگی.  
