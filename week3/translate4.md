@@ -221,18 +221,10 @@ $$
 برای مدل‌سازی نویز در گیرنده به کار رفته و با چندین تابع چگالی احتمال (PDF) مختلف با توزیع t مقایسه گردید،  
 که به‌صورت زیر تعریف می‌شود [4]:
 
-$$
-f_t(x, d) =
-\frac{
-\Gamma\!\left(\frac{d+1}{2}\right)
-}{
-\sigma \sqrt{\pi (d - 2)} \, \Gamma\!\left(\frac{d}{2}\right)
-}
-\left(
-1 + \frac{x^2}{\sigma^2 (d - 2)}
-\right)^{-\frac{d+1}{2}}
-\tag{13}
-$$
+
+<img width="590" height="77" alt="13" src="https://github.com/user-attachments/assets/3274c133-c8ce-4dbd-85c0-e1a178dcb14c" />
+
+
 
 که در آن:
 - \(\Gamma(\cdot)\): تابع گاما (Gamma Function)  
@@ -252,6 +244,11 @@ f_t(x, 6) = \dfrac{0.46875}{\sigma} \left( 1 + \dfrac{(x + \mu)^2}{4\sigma^2} \r
 \tag{14}
 $$
 
+
+<img width="522" height="86" alt="14" src="https://github.com/user-attachments/assets/e401bb76-39f0-4a93-995a-75d728fad53a" />
+
+
+
 نمودار هیستوگرام مدل نویز در مقایسه با رابطه‌ی (14) در *شکل 1* نمایش داده شده است،  
 که تطابق بسیار نزدیک میان این دو نمودار را نشان می‌دهد.  
 
@@ -262,3 +259,5 @@ $$
 نتیجه‌ی آزمون برابر با صفر بود،  
 که نشان می‌دهد دو نمونه از نظر آماری اختلاف معناداری ندارند،  
 به‌ویژه در حالتی که درجه‌ی آزادی برابر با شش باشد.
+
+<img width="810" height="535" alt="Capture" src="https://github.com/user-attachments/assets/5894961d-7613-40f3-b1db-9f1f544c57dd" />
