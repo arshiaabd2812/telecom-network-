@@ -2,8 +2,7 @@
 *نویسندگان:* Ruben Xavier; Rogério S. Silva; Maria Ribeiro; Waldir Moreira; Leandro Freitas; Antonio Oliveira-Jr.  
 *نشریه / سال:* MDPI Telecom, 2024 (Vol. 5, Issue 2, pp. 433–450)  
 *لینک:* [صفحه مقاله](https://www.mdpi.com/2673-4001/5/2/22) • [PDF](https://www.mdpi.com/2673-4001/5/2/22/pdf)  
-*Citation:* [1]  =4
-
+*Citation:*=4
 *Impact Factor (JCR 2024):* 2.4  
 *خلاصهٔ خیلی ساده:* ادغام عملی MEC با هستهٔ 5G متن‌باز (free5GC) و ارزیابی KPIها؛ معماری و پیاده‌سازی end-to-end برای سرویس‌های لبه.  
 *GitHub:* دارد — [LABORA-INF-UFG/5g-mec-integration](https://github.com/LABORA-INF-UFG/5g-mec-integration)  
