@@ -176,3 +176,33 @@ $$
 
 
 <img width="732" height="149" alt="8" src="https://github.com/user-attachments/assets/d0573866-80fd-4dab-b010-8d1d9a330eb7" />
+در این رابطه،  
+\( h_i \) نمایانگر *توابع تصمیم (Decision Functions)* است  
+که به تمام عناصر تصمیم‌گیری بعدی (*Decision Elements – DEs*) ارسال می‌شوند.  
+
+محاسبه‌ی نسبت درست‌نمایی (*Likelihood Ratio – LR*) بر اساس روابط بازگشتی به‌صورت زیر بیان می‌شود:
+
+$$
+L_M^{(2i-1)}(y_1^M, \hat{x}_1^{\,2i-2}) =
+f\!\left(
+L_{M/2}^{(i)}(y_1^{M/2}, \hat{x}{1,o}^{\,2i-2} \oplus \hat{x}{1,e}^{\,2i-2}),
+L_{M/2}^{(i)}(y_{M/2+1}^{M}, \hat{x}_{1,e}^{\,2i-2})
+\right)
+$$
+
+$$
+L_M^{(2i)}(y_1^M, \hat{x}_1^{\,2i-1}) =
+g\!\left(
+L_{M/2}^{(i)}(y_1^{M/2}, \hat{x}{1,o}^{\,2i-2} \oplus \hat{x}{1,e}^{\,2i-2}),
+L_{M/2}^{(i)}(y_{M/2+1}^{M}, \hat{x}_{1,e}^{\,2i-2}),
+\hat{x}_{2i-1}
+\right)
+$$
+
+در این روابط، مقادیر \(a\)، \(b\)، و \(\hat{x}_{\text{sum}}\) به‌صورت زیر تعریف می‌شوند:
+
+
+<img width="694" height="186" alt="9" src="https://github.com/user-attachments/assets/021ab780-f997-484a-a6c2-23458262740c" />
+
+
+<img width="520" height="47" alt="10" src="https://github.com/user-attachments/assets/1b058282-7746-4e33-9c4f-1c523309d9fa" />
