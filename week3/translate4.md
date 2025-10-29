@@ -132,3 +132,18 @@ $$
 
 :
 <img width="484" height="35" alt="6" src="https://github.com/user-attachments/assets/e3c44559-f236-4e43-8331-9b92de9c8ee5" />
+که در آن،  
+\( G_M \)، \( B_M \)، و \( F_2^{\otimes m} \) به‌ترتیب نشان‌دهنده‌ی  
+*ماتریس مولد (Generator Matrix)*،  
+*ماتریس جایگشت معکوس بیت‌ها (Bit Reversal Permutation Matrix)*  
+و *توان کرونکر مرتبه‌ی m از \( F_2 \)* هستند.  
+
+ماتریس \( F_2 \) به‌عنوان *ماتریس کرنل (Kernel Matrix)* تعریف می‌شود و به‌صورت زیر است:
+
+$$
+F_2 =
+\begin{bmatrix}
+1 & 0 \\
+1 & 1
+\end{bmatrix}
+$$
