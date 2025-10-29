@@ -173,4 +173,6 @@ h_i(y_1^M, \hat{x}_1^{\,i-1}), & i \in A
 \end{cases}
 \quad \text{برای } i = 1, 2, 3, \ldots, M
 $$
+
+
 <img width="732" height="149" alt="8" src="https://github.com/user-attachments/assets/d0573866-80fd-4dab-b010-8d1d9a330eb7" />
