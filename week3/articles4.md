@@ -3,7 +3,7 @@
 *نویسندگان:* Ruben Xavier, Rogério S. Silva, Maria Ribeiro, Waldir Moreira, Leandro Freitas, Antonio Oliveira-Jr.  
 *نشریه / سال:* Telecom (MDPI), 2024, Vol. 5(2), 433–450  
 *لینک:* [صفحه مقاله](https://www.mdpi.com/2673-4001/5/2/22) • [PDF](https://www.mdpi.com/2673-4001/5/2/22/pdf)  
-*Citation:* [1]  
+*Citation:* [4]  
 *Impact Factor (JCR 2024):* 2.4  
 *خلاصهٔ ساده:*  
 ادغام عملی MEC در هسته باز 5G (free5GC) با استفاده از Kubernetes. مقاله، KPIها را برای سرویس‌های e-Health و ویدئوی کم‌تأخیر ارزیابی کرده است.  
