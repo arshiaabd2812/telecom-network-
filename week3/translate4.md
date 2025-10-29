@@ -160,8 +160,8 @@ L_M^{(i)}(y_1^M, \hat{x}_1^{\,i-1})
 $$
 <img width="537" height="70" alt="7" src="https://github.com/user-attachments/assets/cd727a7a-c7b9-498d-b051-af22a0e5e4c6" />
 که در آن  
-\( W_M^{(i)}(y_1^M, \hat{x}_1^{\,i-1} \mid \gamma) \)  
-احتمال نویز است، به‌طوری‌که \(\gamma\) می‌تواند مقدار 0 یا 1 داشته باشد.  
+$$\( W_M^{(i)}(y_1^M, \hat{x}_1^{\,i-1} \mid \gamma) \) $$ 
+احتمال نویز است، به‌طوری‌که $$\(\gamma\)$$ می‌تواند مقدار 0 یا 1 داشته باشد.  
 
 تصمیم‌گیری به‌صورت زیر انجام می‌شود:
 
@@ -173,3 +173,4 @@ h_i(y_1^M, \hat{x}_1^{\,i-1}), & i \in A
 \end{cases}
 \quad \text{برای } i = 1, 2, 3, \ldots, M
 $$
+<img width="732" height="149" alt="8" src="https://github.com/user-attachments/assets/d0573866-80fd-4dab-b010-8d1d9a330eb7" />
