@@ -128,5 +128,7 @@ $$
 R = \frac{J}{M}
 $$
 
-کلمهٔ کد به شکل زیر است:
+کلمهٔ کد به شکل زیر است
+
+:
 <img width="240" height="48" alt="6" src="https://github.com/user-attachments/assets/dec97c64-c37a-4d14-9449-ac3f29aad3c2" />
